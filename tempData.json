@@ -1,0 +1,34 @@
+{
+    "name":"Narendra Modi",
+    "party":"BJP",
+    "age":"71",
+    "votes":[
+        {
+            "user":"614236764494487944842",
+            "votedAt":"2024-02-01-00-00"
+        },
+        {
+            "user":"61423676449448794434",
+            "votedAt":"2024-02-02-00-00"
+        }
+    ],
+    "voteCount":2
+}
+
+
+{
+    "name":"pravesh",
+    "age":22,
+    "mobile":"9140756185",
+    "email":"pravesh182002@gmail.com",
+    "address":"22 purani bazar Saidabad",
+    "aadharCardNumber":"123456789012",
+    "password":"password12",
+    "role":"voter"
+}
+
+{
+    "name": "Narendra Modi",
+    "party": "BJP",
+    "age": 62
+}
